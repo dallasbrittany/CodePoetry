@@ -5,3 +5,5 @@ To find out more about the topic, you can look into code {poems}, a project by I
 It's about time people realized computer science and creativity mix well.
 
 Also, I don't claim that these are good, either as poems or as code..! ;) But they were fun to write, which is what I was going for. Try it out yourself.
+
+If you don't have Python 2.7 installed, you can run a lot of the code here: http://www.tutorialspoint.com/execute_python_online.php
